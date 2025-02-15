@@ -1,0 +1,3 @@
+# Off-by-One Error in Java Array Iteration
+
+This repository demonstrates a common off-by-one error in Java when iterating over an array. The `BuggyArraySum.java` file contains code with the error, while `CorrectedArraySum.java` provides the corrected version.  The error results in an `ArrayIndexOutOfBoundsException` at runtime.  This example highlights the importance of careful loop condition checks when working with arrays.
